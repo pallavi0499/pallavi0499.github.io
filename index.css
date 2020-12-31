@@ -245,8 +245,12 @@ a {
 }
 
 .carousel-inner > .carousel-item > .d-block{
-  max-width: 400px;
+  max-width: 250px;
   margin: 0 auto;
+}
+
+.section-portfolio-item {
+  margin: 2rem;
 }
 
 .section-youtube-videos{
@@ -263,6 +267,7 @@ a {
 
 .youtube-video{
   flex: 1;
+  margin: 0 auto;
 }
 
 .youtube-video-head > a{
