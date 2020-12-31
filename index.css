@@ -57,6 +57,14 @@ a {
   font-weight: bold;
 }
 
+.subTitle{
+  font-size: 2rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900;
+  color:#bada55;
+  text-align: center;
+}
+
 /* other values */
 
 .navbar {
