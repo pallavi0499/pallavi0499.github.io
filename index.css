@@ -244,6 +244,11 @@ a {
   padding: 2rem;
 }
 
+.carousel-inner > .carousel-item > .d-block{
+  max-width: 400px;
+  margin: 0 auto;
+}
+
 .section-youtube-videos{
   max-width: 1200px;
   margin: 0 auto;
@@ -414,7 +419,7 @@ a {
 
 /* .gradient-text{
   background-image: linear-gradient(to left, darkblue,  darkorchid);
-  background-size: 100%;
+  background-size: 100%;carousel-inner
   background-repeat: repeat;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; 
